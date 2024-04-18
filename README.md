@@ -1,2 +1,2 @@
 # project-demo
-author - dixita sardhara
+Athor - dixita sardhara
